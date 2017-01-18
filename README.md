@@ -1,4 +1,11 @@
-# trafficar
+# Trafficar
+
+Authors:
+ - Kevin Carvalho e Amorim
+ - Luís Miguel Coelho e Magalhães
+ - João Pedro Milano Silva Cardoso - ee09063@fe.up.pt
+ 
+Trafficar was developed for the SDIS curricular unit, MIEIC, FEUP.
 
 Technologies: 
 
